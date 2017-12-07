@@ -1,0 +1,28 @@
+{
+  "name": "@yci/u-share",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yc-ionic/u-share.git"
+  },
+  "author": {
+    "name": "Yu Chen",
+    "email": "yu.chen@live.ie"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yc-ionic/u-share.git/issues"
+  },
+  "main": "yci-u-share.umd.js",
+  "module": "yci-u-share.js",
+  "jsnext:main": "yci-u-share.js",
+  "typings": "yci-u-share.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
