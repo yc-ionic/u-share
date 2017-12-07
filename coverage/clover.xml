@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1512625989285" clover="3.2.0">
-  <project timestamp="1512625989286" name="All files">
-    <metrics statements="31" coveredstatements="31" conditionals="8" coveredconditionals="8" methods="9" coveredmethods="9" elements="48" coveredelements="48" complexity="0" loc="31" ncloc="31" packages="1" files="3" classes="3">
+<coverage generated="1512627119658" clover="3.2.0">
+  <project timestamp="1512627119658" name="All files">
+    <metrics statements="30" coveredstatements="30" conditionals="8" coveredconditionals="8" methods="8" coveredmethods="8" elements="46" coveredelements="46" complexity="0" loc="30" ncloc="30" packages="1" files="3" classes="3">
       <file name="decorators.ts" path="/Users/yuchen/Projects/yci/u-share/src/decorators.ts">
-        <metrics statements="22" coveredstatements="22" conditionals="8" coveredconditionals="8" methods="7" coveredmethods="7"/>
+        <metrics statements="21" coveredstatements="21" conditionals="8" coveredconditionals="8" methods="6" coveredmethods="6"/>
         <line num="1" count="2" type="stmt"/>
         <line num="6" count="3" type="stmt"/>
         <line num="7" count="3" type="stmt"/>
@@ -12,20 +12,19 @@
         <line num="10" count="3" type="cond" truecount="2" falsecount="0"/>
         <line num="11" count="3" type="stmt"/>
         <line num="12" count="3" type="stmt"/>
-        <line num="15" count="4" type="stmt"/>
-        <line num="16" count="4" type="stmt"/>
-        <line num="17" count="4" type="stmt"/>
-        <line num="18" count="4" type="stmt"/>
-        <line num="23" count="2" type="stmt"/>
-        <line num="24" count="3" type="stmt"/>
-        <line num="25" count="3" type="cond" truecount="2" falsecount="0"/>
-        <line num="26" count="3" type="stmt"/>
-        <line num="29" count="3" type="cond" truecount="2" falsecount="0"/>
-        <line num="30" count="1" type="stmt"/>
-        <line num="32" count="2" type="cond" truecount="2" falsecount="0"/>
-        <line num="33" count="1" type="stmt"/>
-        <line num="35" count="1" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="26" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="30" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="33" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="34" count="1" type="stmt"/>
         <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
       </file>
       <file name="index.ts" path="/Users/yuchen/Projects/yci/u-share/src/index.ts">
         <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>

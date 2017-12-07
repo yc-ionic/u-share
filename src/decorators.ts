@@ -11,12 +11,11 @@ export function CordovaPlugin(options: {
       c = c[arr[index]];
       index++;
     }
-    return class extends constructor {
-      __plugin = options.plugin;
-      __repo = options.repo;
-      __instance = options.instance;
-      instance = c;
-    }
+    constructor.prototype.__plugin = options.plugin;
+    constructor.prototype.__repo = options.repo;
+    constructor.prototype.__instance = options.instance;
+    constructor.prototype.instance = c;
+    return constructor;
   }
 }
 
